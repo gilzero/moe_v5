@@ -1,0 +1,45 @@
+# Python compiled files
+*.pyc
+*.pyo
+*.pyd
+__pycache__/
+
+# Virtual environment
+.env/
+venv/
+env/
+.venv/
+
+# IDE and editor files
+.idea/
+.vscode/
+*.swp
+
+# Logs and databases
+*.log
+*.sqlite3
+
+# OS-generated files
+.DS_Store
+Thumbs.db
+
+# Application-specific
+instance/
+uploads/
+
+# Pipenv and Poetry
+Pipfile
+Pipfile.lock
+poetry.lock
+
+# Pytest cache
+.pytest_cache/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Static files
+/staticfiles/
+
+# env
+.env
